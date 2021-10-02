@@ -1,0 +1,5 @@
+C:\Users\Satrio\Documents\C#\Jarak\obj\Debug\net5.0\Jarak.csproj.AssemblyReference.cache
+C:\Users\Satrio\Documents\C#\Jarak\obj\Debug\net5.0\Jarak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Satrio\Documents\C#\Jarak\obj\Debug\net5.0\Jarak.AssemblyInfoInputs.cache
+C:\Users\Satrio\Documents\C#\Jarak\obj\Debug\net5.0\Jarak.AssemblyInfo.cs
+C:\Users\Satrio\Documents\C#\Jarak\obj\Debug\net5.0\Jarak.csproj.CoreCompileInputs.cache
